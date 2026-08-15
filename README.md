@@ -1,5 +1,7 @@
 # Felipe Natanael
 
+![Build in public](https://img.shields.io/badge/build_in_public-sempre-201515?style=flat-square) ![IA prática](https://img.shields.io/badge/IA_prática-sem_hype-E6E0D4?style=flat-square) ![Open source](https://img.shields.io/badge/open_source-de_verdade-6b7280?style=flat-square)
+
 Construo produtos e operações com IA em público. Mostro decisões, testes e o que funcionou de verdade. Sem hype, sem pose de guru.
 
 ## O que eu tô construindo
@@ -19,5 +21,5 @@ Cada commit aqui é uma decisão. Cada repo, um teste.
 ## Onde me encontrar
 
 - Site: [inovadigitalid.com](https://inovadigitalid.com)
-- X: @seuhandle
+- X: [@invdigital_br](https://x.com/invdigital_br)
 - Documente.club: [documenteclub.vercel.app](https://documenteclub.vercel.app)
