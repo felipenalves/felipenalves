@@ -1,8 +1,10 @@
 # Felipe Natanael
 
-![Build in public](https://img.shields.io/badge/build_in_public-sempre-201515?style=flat-square) ![IA prática](https://img.shields.io/badge/IA_prática-sem_hype-E6E0D4?style=flat-square) ![Open source](https://img.shields.io/badge/open_source-de_verdade-6b7280?style=flat-square)
+![Build in public](https://img.shields.io/badge/build_in_public-sempre-201515?style=flat-square) ![IA prática](https://img.shields.io/badge/mostro_o_que_saiu-teste_atrás_de_teste-E6E0D4?style=flat-square) ![Open source](https://img.shields.io/badge/open_source-de_verdade-6b7280?style=flat-square)
 
-Construo projetos e operações com IA em público. Mostro decisões, testes e o que funcionou de verdade. Sem hype, sem pose de guru.
+Construo projetos e operações com IA em público. Mostro decisões, testes e o que funcionou de verdade.
+
+Eu penso assim: melhor mostrar o que saiu do que prometer o que eu não testei. Se algo aqui funciona, tem print. Se não funcionou, também.
 
 ## O que eu tô construindo
 
