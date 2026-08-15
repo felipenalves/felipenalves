@@ -8,7 +8,7 @@ Eu penso assim: melhor mostrar o que saiu do que prometer o que eu não testei. 
 
 ## O que eu tô construindo
 
-**Dokke** — celular Android velho vira servidor. App pra Mac + Android + PWA, instala em 1 clique. Feito pra ninguém pagar VPS pra hobby. [github.com/felipenalves/Dokke](https://github.com/felipenalves/Dokke)
+**Dokke** — dock de apps que sincroniza do Mac pra qualquer device na LAN. App pra Mac, APK pra Android e PWA pro iPhone. Nasceu de um Galaxy J5 velho parado em casa. [github.com/felipenalves/Dokke](https://github.com/felipenalves/Dokke)
 
 **INVOS** — o sistema de memória que meus agentes usam pra operar a empresa. Open source e grátis. [github.com/felipenalves/invos](https://github.com/felipenalves/invos)
 
