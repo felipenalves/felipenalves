@@ -23,5 +23,5 @@ Cada commit aqui é uma decisão. Cada repo, um teste.
 ## Onde me encontrar
 
 - Site: [inovadigitalid.com](https://inovadigitalid.com)
-- X: [@invdigital_br](https://x.com/invdigital_br)
+- X: [@invdigital_br](https://x.com/felipenalvesinv)
 - Documente.club: [documenteclub.vercel.app](https://documenteclub.vercel.app)
