@@ -11,7 +11,7 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./felipe-ascii.svg" width="370" alt="Retrato de Felipe Natanael em arte ASCII monocromática" /></td>
+<td valign="top"><img src="./felipe-ascii.jpg" width="370" alt="Retrato de Felipe Natanael em arte ASCII dentro de uma janela de terminal" /></td>
 <td valign="top"><img src="./info-card.svg" width="490" alt="Cartão de perfil de Felipe Natanael no estilo neofetch" /></td>
 </tr>
 </table>
