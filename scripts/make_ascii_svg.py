@@ -33,7 +33,7 @@ def convert(source: Path, destination: Path, columns: int) -> None:
     parts = [
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}" role="img" aria-labelledby="portrait-title portrait-description">',
         '<title id="portrait-title">Felipe Natanael — ASCII portrait</title>',
-        '<desc id="portrait-description">Monochrome portrait from Felipe’s public GitHub avatar. Rows reveal once from top to bottom, then remain visible.</desc>',
+        '<desc id="portrait-description">Felipe Natanael’s portrait used on inovadigitalid.com, rendered in monochrome ASCII. Rows reveal once from top to bottom, then remain visible.</desc>',
         f'<rect x="0.5" y="0.5" width="369" height="{height - 1}" rx="10" fill="#0d1117" stroke="#30363d"/>',
         '<path d="M1 30H369" stroke="#30363d"/>',
         '<g fill="#8b949e"><circle cx="15" cy="15" r="3"/><circle cx="27" cy="15" r="3"/><circle cx="39" cy="15" r="3"/></g>',
